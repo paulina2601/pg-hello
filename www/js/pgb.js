@@ -20,8 +20,8 @@ function deviceInfo() {
 	navigator.notification.alert(info);
 	
 }
-function peronalInfo() {
+function personalInfo() {
 	info = 'Name= Paulina' + '\n' +
 		'Surname= Wujkowska' + '\n';
-	naviator.notification.alert(info);
+	navigator.notification.alert(info);
 }
